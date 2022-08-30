@@ -1,4 +1,4 @@
-class String {
+class Main {
   public static void main (String [] args) {
     int x = 123;
     float y = 23.66f;
